@@ -1,0 +1,476 @@
+Word:
+Fou
+Pronounced:
+F O
+End
+Part of Speech:
+EmotionSound1
+End
+
+Word:
+Ma
+Pronounced:
+M AA
+End
+Part of Speech:
+EmotionSound1
+End
+
+Word:
+Nn
+Pronounced:
+N
+End
+Part of Speech:
+EmotionSound1
+End
+
+Word:
+Rrha
+Pronounced:
+R AH
+End
+Part of Speech:
+EmotionSound1
+End
+
+Word:
+Was
+Pronounced:
+W AA S
+End
+Part of Speech:
+EmotionSound1
+End
+
+Word:
+Wee
+Pronounced:
+W I
+End
+Part of Speech:
+EmotionSound1
+End
+
+Word:
+apea
+Pronounced:
+AA P EH AA
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+au
+Pronounced:
+AU
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+granme
+Pronounced:
+G R AE N M EI
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+guwo
+Pronounced:
+G U O
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+i
+Pronounced:
+I
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+jyel
+Pronounced:
+JH I EH L
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+ki
+Pronounced:
+K I
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+lau
+Pronounced:
+L AU
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+num
+Pronounced:
+N U M
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+paks
+Pronounced:
+P AA K S
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+quel
+Pronounced:
+K W EH L
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+touwaka
+Pronounced:
+T O W AA K AA
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+waa
+Pronounced:
+W AA
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+wol
+Pronounced:
+W O L
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+yant
+Pronounced:
+I AA N T
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+yea
+Pronounced:
+I EI
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+zweie
+Pronounced:
+T U D U
+End
+Part of Speech:
+EmotionSound2
+End
+
+Word:
+erra
+Pronounced:
+EI R AA
+End
+Part of Speech:
+EmotionSound3
+End
+
+Word:
+ga
+Pronounced:
+G AA
+End
+Part of Speech:
+EmotionSound3
+End
+
+Word:
+gagis
+Pronounced:
+G AA G I S
+End
+Part of Speech:
+EmotionSound3
+End
+
+Word:
+gaya
+Pronounced:
+G AA I AA
+End
+Part of Speech:
+EmotionSound3
+End
+
+Word:
+ra
+Pronounced:
+R AA
+End
+Part of Speech:
+EmotionSound3
+End
+
+Word:
+wa
+Pronounced:
+W AA
+End
+Part of Speech:
+EmotionSound3
+End
+
+Word:
+tie
+Pronounced:
+T I
+End
+Part of Speech:
+Verb
+End
+
+Word:
+ini
+Pronounced:
+I N I
+End
+Part of Speech:
+Verb
+End
+
+Word:
+nha
+Pronounced:
+N I AA
+End
+Part of Speech:
+Verb
+End
+
+Word:
+selena
+Pronounced:
+S EH L EI N AA
+End
+Part of Speech:
+Verb
+End
+
+Word:
+nedle
+Pronounced:
+N EI D L
+End
+Part of Speech:
+Verb
+End
+
+Word:
+slepir
+Pronounced:
+S L EH P I R
+End
+Part of Speech:
+Verb
+End
+
+Word:
+pauwel
+Pronounced:
+P AU W EH L
+End
+Part of Speech:
+Noun
+End
+
+Word:
+yor
+Pronounced:
+J O R
+End
+Part of Speech:
+Noun
+End
+
+Word:
+hymmnos
+Pronounced:
+H IH M N O S
+End
+Part of Speech:
+Noun
+End
+
+Word:
+purger
+Pronounced:
+P ER JH ER
+End
+Part of Speech:
+Noun
+End
+
+Word:
+eterne
+Pronounced:
+EH T EH R N EH
+End
+Part of Speech:
+Noun
+End
+
+Word:
+falfa
+Pronounced:
+F AA L F AA
+End
+Part of Speech:
+Noun
+End
+
+Word:
+hyzik
+Pronounced:
+H I ZH I K
+End
+Part of Speech:
+Noun
+End
+
+Word:
+en
+Pronounced:
+EH N
+End
+Part of Speech:
+Conjunction
+End
+
+Word:
+anw
+Pronounced:
+AA N O
+End
+Part of Speech:
+Preposition
+End
+
+Word:
+tes
+Pronounced:
+T EH S
+End
+Part of Speech:
+Preposition
+End
+
+Word:
+an
+Pronounced:
+Q N
+End
+Part of Speech:
+Adverb
+End
+
+Word:
+chs
+Pronounced:
+CH I S
+End
+Part of Speech:
+verb
+End
+
+Word:
+mea
+Pronounced:
+M EH AA
+End
+Part of Speech:
+Noun
+End
+
+Word:
+hymme
+Pronounced:
+H IH M EI
+End
+Part of Speech:
+Noun
+End
+
+Word:
+getrra
+Pronounced:
+G EH T R AA
+End
+Part of Speech:
+Adjective
+End
+
+Word:
+gott
+Pronounced:
+G O T
+End
+Part of Speech:
+Interjection
+End
+
+Word:
+wi
+Pronounced:
+W I
+End
+Part of Speech:
+Noun
+End
+
+Word:
+gyas
+Pronounced:
+G I AA S
+End
+Part of Speech:
+Noun
+End
