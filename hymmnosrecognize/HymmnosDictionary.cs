@@ -282,11 +282,6 @@ namespace HymmnosRecognize
             return "<phoneme alphabet=\"x-microsoft-ups\" ph=\"" + ((SrgsToken)((SrgsOneOf)dictionary.Rules[desiredWord].Elements[0]).Items[pronunciationIndex].Elements[0]).Pronunciation + "\"> " + desiredWord + " </phoneme>";
         }
 
-        public SrgsDocument GetSrgsDocument()
-        {
-            return new SrgsDocument("Temp.xml");
-        }
-
         public void WriteDictionaryToFile(String filename)
         {
             XmlWriter writer = XmlWriter.Create(filename);

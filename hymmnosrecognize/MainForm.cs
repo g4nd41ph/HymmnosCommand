@@ -36,7 +36,7 @@ namespace HymmnosRecognize
                         String name = reader.ReadLine();
 
                         //Define a rule
-                        SrgsDocument tempDictionary = dictionary.GetSrgsDocument();
+                        SrgsDocument tempDictionary = new SrgsDocument(Properties.Settings.Default.DictionaryPath);
                         SrgsRule rule = new SrgsRule(name);
                         rule.Scope = SrgsRuleScope.Public;
                         line = reader.ReadLine();
